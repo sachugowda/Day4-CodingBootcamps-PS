@@ -23,3 +23,13 @@ The elements stored in the first array are :</br>
 15 10 12</br>
 The elements copied into the second array are :</br>
 15 10 12</br>
+
+  <h2> Problem 3: Write a C program to get two rows and columns of integers from the user and print them in matrix fashion.</h2>
+<p>
+Example<br>
+input:<br>
+ 1 2 3 4</br>
+Output: </br>
+1   2</br>
+3   4</br>
+
