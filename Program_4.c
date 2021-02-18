@@ -4,6 +4,7 @@
 //2 5 8
 //Expected Output:
 //Sum of all elements stored in the array is : 15
+#include <stdio.h>
 int main()
 {
   //Declare all the variables[N, array a(1D array), i, sum=0] used in the code
