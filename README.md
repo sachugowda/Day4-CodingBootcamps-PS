@@ -33,3 +33,13 @@ Output: </br>
 1   2</br>
 3   4</br>
 
+  <h2> Problem 4: Write a program in C to find the sum of all elements of the array. </h2>
+<p>
+Example<br>
+input:<br>
+ Input the number of elements to be stored in the array :3 <br>
+Input 3 elements in the array : 2 5 8</br>
+Output: </br>
+Sum of all elements stored in the array is : 15</br>
+
+
